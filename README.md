@@ -1,6 +1,8 @@
 # Jurassic-Colonies
 Minecraft Curse Forge Pack
 
+https://www.curseforge.com/minecraft/modpacks/jurassic-mine-colonies
+
 Valkyrie presents Jurassic Colonies, A new take on the Mine Colonies pack. Made for a private server and now released to the public!
 We wanted a cool modpack that also has dinosaurs.
 
